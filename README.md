@@ -39,7 +39,7 @@ nvm alias default 22.9.0
 
 ```bash
 git clone https://github.com/radikal2006/Rivalz-ai.git
-cd Rivalz-ai-bot
+cd Rivalz-ai
 ```
 
 ### ۴. نصب وابستگی‌ها
