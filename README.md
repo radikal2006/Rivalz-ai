@@ -1,3 +1,4 @@
+https://i.ytimg.com/vi/0-p6oWwmdNI/maxresdefault.jpg
 # Rivalz-ai
 Daily claim rivalz fragment 
 
